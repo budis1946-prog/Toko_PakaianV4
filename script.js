@@ -995,7 +995,7 @@ function beliWhatsApp(id) {
    */
 
   const message =
-    `Halo Toko Baju 👋\n\n` +
+    `Halo Ashera.id 👋\n\n` +
     `Saya ingin membeli produk berikut:\n\n` +
     `Produk: ${product.nama}\n` +
     `Harga: ${rupiah(product.hargaJual)}\n` +
